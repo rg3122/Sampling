@@ -59,6 +59,8 @@ Number of Clusters = 28 (sqrt(n/2) where n is the total number of rows)
 
 In this method we have used a combination of sampling technique, i.e. cluster and simple random. The dataset is divided into clusters and then random samples are chosen from those clusters. During this sampling method, significant clusters of the selected people are split into sub-groups at various stages to make it simpler for primary data collection.
 
+# Result
+On comparison, we can see that when we apply `XGB Algorithm` on `Simple Random Sampling`,  and `XGB Algorithm` on `Stratified Random Sampling`and `Decision Tree Algorithm` on `Cluster Sampling`,we get the highest accuracy but there is 100% accuracy which means it is overfitting also.Therefore we can consider `Decision Tree  Algorithm` and `KNN  Algorithm` on `Simple Random Sampling`to provide highest accuracy.
 
 
 
