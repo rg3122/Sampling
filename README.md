@@ -1,13 +1,18 @@
 # Sampling
 
  Creditcards.csv has a dataset about credit cards. It is a binary classification problem. The dataset is imbalanced and hence it is balanced by using random over sampling technique. After balancing the dataset, different sampling techniques are used and 5 different models have been applied to get the accuracy on testing set. The dataset is divided into a 20-80 ratio of testing and training set.
- Methodology
+# Methodology
 Balancing Dataset
+
 Creating different types of samples
+
 Training different machine learning models
+
 Testing the models
+
 Analysing the Result obtained
-Sampling Technique Description and Sampling Size Formula
+
+#Sampling Technique Description and Sampling Size Formula
 Simple Random Sampling 
 Simple random sampling is a type of probability sampling in which the researcher randomly selects a subset of participants from a population. Each member of the population has an equal chance of being selected. Data is then collected from as large a percentage as possible of this random subset
 A simple random sample is a subset of a statistical population in which each member of the subset has an equal probability of being chosen.
