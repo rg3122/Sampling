@@ -1,6 +1,6 @@
 # Sampling
 
- CrediTcards.csv has a dataset about credit cards. It is a binary classification problem. The dataset is imbalanced and hence it is balanced by using random over sampling technique. After balancing the dataset, different sampling techniques are used and 5 different models have been applied to get the accuracy on testing set. The dataset is divided into a 20-80 ratio of testing and training set.
+ Creditcards.csv has a dataset about credit cards. It is a binary classification problem. The dataset is imbalanced and hence it is balanced by using random over sampling technique. After balancing the dataset, different sampling techniques are used and 5 different models have been applied to get the accuracy on testing set. The dataset is divided into a 20-80 ratio of testing and training set.
  Methodology
 Balancing Dataset
 Creating different types of samples
